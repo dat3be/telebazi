@@ -1,0 +1,22 @@
+[32m2024-11-18 23:03:08 - __main__ - INFO - Bot is starting...[0m
+[32m2024-11-18 23:03:12 - __main__ - INFO - Start command received from user_id: 5479175202, simthue.biz None[0m
+[32m2024-11-18 23:03:23 - __main__ - INFO - User 5479175202 successfully entered date: 29/9/1994[0m
+[32m2024-11-18 23:03:29 - __main__ - INFO - User 5479175202 entered time successfully: 12:30[0m
+[32m2024-11-18 23:04:44 - __main__ - INFO - Bot is starting...[0m
+[32m2024-11-18 23:04:49 - __main__ - INFO - Started conversation with user 5479175202 (simthue.biz None)[0m
+[31m2024-11-18 23:04:51 - __main__ - ERROR - User 5479175202 entered invalid date format: 123. Error: not enough values to unpack (expected 3, got 1)[0m
+[32m2024-11-18 23:04:57 - __main__ - INFO - User 5479175202 successfully entered date: 19/9/1999[0m
+[33m2024-11-18 23:04:59 - __main__ - WARNING - User 5479175202 entered invalid time: 12:300[0m
+[32m2024-11-18 23:05:02 - __main__ - INFO - User 5479175202 successfully entered time: 12:30[0m
+[32m2024-11-18 23:05:44 - __main__ - INFO - Bot is starting...[0m
+[32m2024-11-18 23:05:49 - __main__ - INFO - Started conversation with user_id: 5479175202, simthue.biz None[0m
+[32m2024-11-18 23:05:53 - __main__ - INFO - User 5479175202 successfully entered date: 29/9/1994[0m
+[32m2024-11-18 23:05:54 - __main__ - INFO - User 5479175202 successfully entered time: 12:30[0m
+[32m2024-11-19 07:24:32 - __main__ - INFO - Bot is starting...[0m
+[32m2024-11-19 07:24:58 - __main__ - INFO - Started conversation with user_id: 5479175202, simthue.biz None[0m
+[32m2024-11-19 07:25:02 - __main__ - INFO - User 5479175202 successfully entered date: 29/9/1994[0m
+[32m2024-11-19 07:25:06 - __main__ - INFO - User 5479175202 successfully entered time: 12:30[0m
+[32m2024-11-19 07:27:08 - __main__ - INFO - Bot is starting...[0m
+[32m2024-11-19 07:27:17 - __main__ - INFO - Started conversation with user_id: 5479175202, simthue.biz None[0m
+[32m2024-11-19 07:27:23 - __main__ - INFO - User 5479175202 successfully entered date: 29/9/1994[0m
+[32m2024-11-19 07:27:25 - __main__ - INFO - User 5479175202 successfully entered time: 12:30[0m
