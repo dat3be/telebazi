@@ -1,6 +1,3 @@
-import logging
-from colorlog import ColoredFormatter
-
 def setup_logging():
     log_format = "%(log_color)s%(asctime)s - %(name)s - %(levelname)s - %(message)s"
     formatter = ColoredFormatter(log_format, datefmt="%Y-%m-%d %H:%M:%S")
@@ -18,7 +15,9 @@ def setup_logging():
 
     return logger
 import logging
+
 from colorlog import ColoredFormatter
+
 
 def setup_logging():
     log_format = "%(log_color)s%(asctime)s - %(name)s - %(levelname)s - %(message)s"
